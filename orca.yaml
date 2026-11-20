@@ -1,0 +1,3 @@
+# Orca project defaults for Git worktrees.
+# Add setup hooks and terminal commands once the project defines them.
+{}

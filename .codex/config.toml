@@ -1,0 +1,5 @@
+[features]
+memories = false
+
+[tui]
+status_line = ["context-remaining", "thread-title", "model-with-reasoning", "current-dir"]
